@@ -24,4 +24,4 @@ See `package.json` for all available scripts.
 
 ## See also
 
-- [Starter template for prototyping and building CLI tools with Node.js and TypeScript](http://blog.codeleak.pl)
+- [Starter template for prototyping and building CLI tools with Node.js and TypeScript](https://blog.codeleak.pl/2023/02/starter-template-for-prototyping-and_8.html)
